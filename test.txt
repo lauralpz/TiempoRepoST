@@ -1,4 +1,1 @@
 Line 1
-This is a file
-conflict line YYYYY
-This is a file
